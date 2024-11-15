@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-tizen' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)skiasharp.nativeassets.tizen\2.88.2\buildTransitive\tizen40\SkiaSharp.NativeAssets.Tizen.targets" Condition="Exists('$(NuGetPackageRoot)skiasharp.nativeassets.tizen\2.88.2\buildTransitive\tizen40\SkiaSharp.NativeAssets.Tizen.targets')" />
+  </ImportGroup>
+</Project>

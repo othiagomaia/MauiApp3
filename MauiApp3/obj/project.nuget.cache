@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7xsmZwn/ZU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\othia\\source\\repos\\MauiApp3\\MauiApp3\\MauiApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.maui.dependencies\\6.0.553\\microsoft.maui.dependencies.6.0.553.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.maui.extensions\\6.0.553\\microsoft.maui.extensions.6.0.553.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.maui.graphics\\6.0.501\\microsoft.maui.graphics.6.0.501.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\microsoft.maui.graphics.skia\\6.0.501\\microsoft.maui.graphics.skia.6.0.501.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\skiasharp\\2.88.2\\skiasharp.2.88.2.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\skiasharp.nativeassets.tizen\\2.88.2\\skiasharp.nativeassets.tizen.2.88.2.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\skiasharp.views\\2.88.2\\skiasharp.views.2.88.2.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\othia\\.nuget\\packages\\tizen.uiextensions.nui\\0.9.0\\tizen.uiextensions.nui.0.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
